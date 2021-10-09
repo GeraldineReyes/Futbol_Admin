@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u_7blTpbuQDOipQomOw_Nfqh68ZTOiWOCs7ikmYIDsE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SfhGYcQhwSbQ3vDMYJ1CsUeus5mCIGY3smDupFiSTBk=.hash",
       "Source": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ProyectoSoccerManager.App.Presentacion.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ProyectoSoccerManager.App.Presentacion.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cnYwtw4AoIF_FwqSv8MZKC7tQ18CKMEbfGysxgTeRMc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TfrsT00iIJML1lnXeeTN6B8-JFoNu1GrMnB0c4CuB9w=.hash",
       "Source": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ProyectoSoccerManager.App.Presentacion.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ProyectoSoccerManager.App.Presentacion.pdb.br"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mXAm8as9jIZ7s9Lel_tmqjuNZN8s8mueIVVtB9AdPTQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cJRgvuj1fQmshqfM4BOa7WsRQ4k2d7BGGq5a6Q00kiA=.hash",
       "Source": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
