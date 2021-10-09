@@ -1,6 +1,6 @@
 using System;
 //using System.DataTime;
-namespace ProyectoSoccerManager.App.Dominio.Entidades
+namespace ProyectoSoccerManager.App.Dominio
 {
     public class Participante
     {
