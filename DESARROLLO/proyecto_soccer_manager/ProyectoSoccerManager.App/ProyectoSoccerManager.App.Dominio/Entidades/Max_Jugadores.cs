@@ -1,10 +1,9 @@
 using System;
-namespace ProyectoSoccerManager.App.Dominio.Entidades
+namespace ProyectoSoccerManager.App.Dominio
 {
     public class Max_Jugadores
     {
         public int Id {get; set; }
-        public string Codigo {get; set;}
         public int Cantidad {get; set;}
     }
 }

@@ -1,11 +1,10 @@
 using System;
 //using System.DataTime;
-namespace ProyectoSoccerManager.App.Dominio.Entidades
+namespace ProyectoSoccerManager.App.Dominio
 {
     public class Campeonato
     {
         public int Id { get; set; }
-        public string Codigo { get; set;}
         public string Nombre { get; set;}
         public DateTime Fecha_Inicial { get; set;}
         public DateTime Fecha_Fin { get; set;}

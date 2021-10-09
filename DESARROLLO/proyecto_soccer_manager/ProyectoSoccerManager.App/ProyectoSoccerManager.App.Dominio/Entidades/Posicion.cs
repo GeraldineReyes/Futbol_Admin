@@ -1,5 +1,5 @@
 using System;
-namespace ProyectoSoccerManager.App.Dominio.Entidades
+namespace ProyectoSoccerManager.App.Dominio
 {
     public class Posicion
     {

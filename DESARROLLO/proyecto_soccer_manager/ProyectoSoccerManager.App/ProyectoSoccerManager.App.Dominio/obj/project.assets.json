@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj",
       "projectName": "ProyectoSoccerManager.App.Dominio",
-      "projectPath": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj",
+      "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config"
