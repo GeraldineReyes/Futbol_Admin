@@ -2,12 +2,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using ProyectoSoccerManager.App.Dominio;
-namespace ProyectoSoccerManager.App.Persistencia.bin.AppRepositorios
+namespace ProyectoSoccerManager.App.Persistencia
 {
     public class RepositorioSoccerManager : IRepositorioSoccerManager
     {
+        List<Genero> Generos;
         public RepositorioSoccerManager()
         {
+            Generos = new List<Genero>()
+            {
+                new Genero(Id=1, Nombre="Masculino", Abreviatura="M"),
+                new Genero(Id=2, Nombre="Femenino", Abreviatura="F")
+            };
         }
             public Genero Add(Genero nuevoGenero) // Adicionar
             {

@@ -1,6 +1,6 @@
 using System;
 using ProyectoSoccerManager.App.Dominio;
-namespace ProyectoSoccerManager.App.Persistencia.bin.AppRepositorios
+namespace ProyectoSoccerManager.App.Persistencia
 {
     public interface IRepositorioSoccerManager
     {
