@@ -1,0 +1,9 @@
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.AssemblyInfo.cs
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\bin\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.deps.json
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\bin\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.dll
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\bin\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.pdb
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.dll
+C:\Users\Familia\proyecto_soccer_manager\ProyectoSoccerManager.App\ProyectoSoccerManager.App.Dominio\obj\Debug\netstandard2.0\ProyectoSoccerManager.App.Dominio.pdb

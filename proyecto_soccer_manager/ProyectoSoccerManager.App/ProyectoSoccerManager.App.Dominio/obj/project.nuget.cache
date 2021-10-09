@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JEhSVmeT8PEJb6qf44UBwTJVjdNm2YaEDHHmfApLPA+jGYsE+j+HcrhCbXR1S6+yIPkWy6CBGMXjbsIR4QVbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Familia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Familia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
