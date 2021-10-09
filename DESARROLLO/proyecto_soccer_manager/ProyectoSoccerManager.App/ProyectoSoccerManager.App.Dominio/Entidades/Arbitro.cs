@@ -10,6 +10,7 @@ namespace ProyectoSoccerManager.App.Dominio.Entidades
         public string Documento { get; set; }
         public string Celular { get; set;}
         public string Certificado { get;set;}
+        
 
         public Tipo_Documento tipo_documento { get; set;}
 
