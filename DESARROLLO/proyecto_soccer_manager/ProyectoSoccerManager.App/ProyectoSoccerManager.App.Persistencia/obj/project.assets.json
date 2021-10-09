@@ -2068,6 +2068,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ProyectoSoccerManager.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProyectoSoccerManager.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProyectoSoccerManager.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -7236,6 +7246,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "ProyectoSoccerManager.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../ProyectoSoccerManager.App.Dominio/ProyectoSoccerManager.App.Dominio.csproj",
+      "msbuildProject": "../ProyectoSoccerManager.App.Dominio/ProyectoSoccerManager.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7243,7 +7258,8 @@
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
+      "ProyectoSoccerManager.App.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7252,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\ProyectoSoccerManager.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\ProyectoSoccerManager.App.Persistencia.csproj",
       "projectName": "ProyectoSoccerManager.App.Persistencia",
-      "projectPath": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\ProyectoSoccerManager.App.Persistencia.csproj",
+      "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\ProyectoSoccerManager.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7269,7 +7285,11 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\Futbol_Admin\\DESARROLLO\\proyecto_soccer_manager\\ProyectoSoccerManager.App\\ProyectoSoccerManager.App.Dominio\\ProyectoSoccerManager.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
