@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using ProyectoSoccerManager.App.Dominio;
 namespace ProyectoSoccerManager.App.Persistencia
 {

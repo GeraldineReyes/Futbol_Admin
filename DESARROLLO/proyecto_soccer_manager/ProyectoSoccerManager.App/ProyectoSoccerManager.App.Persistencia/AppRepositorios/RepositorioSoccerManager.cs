@@ -11,13 +11,13 @@ namespace ProyectoSoccerManager.App.Persistencia
         {
             Generos = new List<Genero>()
             {
-                new Genero(Id=1, Nombre="Masculino", Abreviatura="M"),
-                new Genero(Id=2, Nombre="Femenino", Abreviatura="F")
+                new Genero{Id=1, Nombre="Masculino", Abreviatura="M"},
+                new Genero{Id=2, Nombre="Femenino", Abreviatura="F"}
             };
         }
             public Genero Add(Genero nuevoGenero) // Adicionar
             {
-                nuevoGenero.Id = Generos.Max(r => r.id) + 1; //id: contados Max obtiene el numero mayor, y le suma uno
+                nuevoGenero.Id = Generos.Max(r => r.Id) + 1; //id: contados Max obtiene el numero mayor, y le suma uno
                 Generos.Add(nuevoGenero);
                 return nuevoGenero;
             }
@@ -27,7 +27,12 @@ namespace ProyectoSoccerManager.App.Persistencia
                 return Generos;
             }
 
-            public Genero GetGeneroPorId(int GeneroId)  // Buscar
+        public IEnumerable<Genero> GetGeneroPorFiltro(string filtro)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Genero GetGeneroPorId(int GeneroId)  // Buscar
             {
                 return Generos.SingleOrDefault(g => g.Id == GeneroId);//recorre la lista de saludos, hasta encontrar uno igual
             }
@@ -39,7 +44,7 @@ namespace ProyectoSoccerManager.App.Persistencia
 
             public Genero Update(Genero generoActualizado)  // Actualizar
             {
-                var genero = Generos.SingleOrDefault(r => r.id == generoActualizado.Id);
+                var genero = Generos.SingleOrDefault(r => r.Id == generoActualizado.Id);
                 if (genero != null)
                 {
                     genero.Nombre = generoActualizado.Nombre;
@@ -47,7 +52,6 @@ namespace ProyectoSoccerManager.App.Persistencia
                 }
                 return genero;
             }
-        
-
+      
     }
 }
