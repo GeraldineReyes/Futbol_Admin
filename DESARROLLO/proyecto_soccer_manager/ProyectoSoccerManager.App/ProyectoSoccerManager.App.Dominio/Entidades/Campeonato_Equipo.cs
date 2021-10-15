@@ -3,8 +3,8 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Campeonato_Equipo
     {
-        public string Local { get; set; }
-        public string Visitante { get; set; }
+        public string local { get; set; }
+        public string visitante { get; set; }
 
 
         public Campeonato campeonato { get; set; }

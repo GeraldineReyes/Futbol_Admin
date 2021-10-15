@@ -3,7 +3,7 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Min_Equipos
     {
-        public int Id { get; set; }
-        public int Cantidad { get; set;}
+        public int id { get; set; }
+        public int cantidad { get; set;}
     }
 }

@@ -3,7 +3,7 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Equipo_Jugador
     {
-        public string Dorsal { get; set; }
+        public string dorsal { get; set; }
 
         public Equipo equipo { get; set; }
 

@@ -4,12 +4,12 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Campeonato
     {
-        public int Id { get; set; }
-        public string Nombre { get; set;}
-        public DateTime Fecha_Inicial { get; set;}
-        public DateTime Fecha_Fin { get; set;}
-        public string Reglamento { get; set;}
-        public string Can_Canchas { get; set;}
+        public int id { get; set; }
+        public string nombre { get; set;}
+        public DateTime fecha_Inicial { get; set;}
+        public DateTime fecha_Fin { get; set;}
+        public string reglamento { get; set;}
+        public string can_Canchas { get; set;}
         
 
         public Cancha cancha { get; set;}

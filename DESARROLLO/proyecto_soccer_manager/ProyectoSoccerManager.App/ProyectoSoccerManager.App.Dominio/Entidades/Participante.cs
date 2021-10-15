@@ -4,11 +4,11 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Participante
     {
-         public int Id { get; set; }
-        public string Nombre { get; set;}
-        public string Apellido { get; set;}
-        public string Correo { get; set;}
-        public string Documento { get; set; }
+         public int id { get; set; }
+        public string nombre { get; set;}
+        public string apellido { get; set;}
+        public string correo { get; set;}
+        public string documento { get; set; }
 
         public DateTime Fec_Nacimiento { get; set;}
 

@@ -3,12 +3,12 @@ namespace ProyectoSoccerManager.App.Dominio
 {
     public class Organizador
     {
-        public int Id { get; set; }
-        public string Nombre { get; set;}
-        public string Apellido { get; set;}
-        public string Correo { get; set;}
-        public string Documento { get; set; }
-        public string Celular { get; set;}
+        public int id { get; set; }
+        public string nombre { get; set;}
+        public string apellido { get; set;}
+        public string correo { get; set;}
+        public string documento { get; set; }
+        public string celular { get; set;}
 
         public Tipo_Documento tipo_documento { get; set;}
     }
